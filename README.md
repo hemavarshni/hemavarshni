@@ -1,4 +1,4 @@
-### Hi there 👋
+### HEMAVARSHNI.P - PYTHON PROJECT - THE INTERNACADEMY
 
 <!--
 **hemavarshni/hemavarshni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
